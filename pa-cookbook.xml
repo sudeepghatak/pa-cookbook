@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PowerAppsLinks>
+  <Link>
+    <ShortUrl>pa-youtube</ShortUrl>
+    <LongDesc>Power Apps YouTube Channel</LongDesc>
+    <Url>https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-issues</ShortUrl>
+    <LongDesc>Common issues and resolutions for Power Apps - Power Apps | Microsoft Learn</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/troubleshoot/power-platform/power-apps/create-and-use-apps/common-issues-and-resolutions?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-connectors</ShortUrl>
+    <LongDesc>Overview of connectors for canvas apps</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections-list?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-env</ShortUrl>
+    <LongDesc>Power Platform environments overview</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-platform/admin/environments-overview?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-delegation</ShortUrl>
+    <LongDesc>Delegation in Power Apps</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/delegation-overview?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>power-fx</ShortUrl>
+    <LongDesc>Microsoft Power Fx</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-platform/power-fx/overview?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-studio</ShortUrl>
+    <LongDesc>Overview of Power Apps Studio</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/power-apps-studio?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-solutions</ShortUrl>
+    <LongDesc>Solutions in Power Apps overview</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solutions-overview?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-pipelines</ShortUrl>
+    <LongDesc>Overview of pipelines in Power Platform</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-platform/alm/pipelines?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-licensing</ShortUrl>
+    <LongDesc>Power Apps Licensing</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-platform/admin/pricing-billing-skus?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-gateway</ShortUrl>
+    <LongDesc>Manage an on-premises data gateway in Power Apps</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/gateway-management?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-forms</ShortUrl>
+    <LongDesc>Edit form and Display form</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/controls/control-form-detail?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-pricing</ShortUrl>
+    <LongDesc>Power Apps pricing</LongDesc>
+    <Url>https://www.microsoft.com/en-us/power-platform/products/power-apps/pricing?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-free</ShortUrl>
+    <LongDesc>Power Apps Trial</LongDesc>
+    <Url>https://www.microsoft.com/en-nz/power-platform/products/power-apps/free?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-canvas</ShortUrl>
+    <LongDesc>Power Apps Canvas Apps</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-data</ShortUrl>
+    <LongDesc>Power Apps Data Sources</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-data-sources?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>dataverse</ShortUrl>
+    <LongDesc>Dataverse</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-gallery</ShortUrl>
+    <LongDesc>Power Apps Gallery</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/controls/control-gallery?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-controls</ShortUrl>
+    <LongDesc>Controls and properties in canvas apps</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/reference-properties?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+  <Link>
+    <ShortUrl>pa-themes</ShortUrl>
+    <LongDesc>Theming in Power Apps</LongDesc>
+    <Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/controls/modern-controls/modern-theming?WT.mc_id=DX-MVP-5005309</Url>
+  </Link>
+</PowerAppsLinks>
