@@ -48,4 +48,24 @@
   <Link><ShortUrl>pa-github-ch1</ShortUrl><LongDesc>Github - Chapter 1</LongDesc><Url>https://github.com/sudeepghatak/BPB-PowerAppsCookbook/tree/main/Chapter%201</Url></Link>
   <Link><ShortUrl>pa-github-ch2</ShortUrl><LongDesc>Github - Chapter 2</LongDesc><Url>https://github.com/sudeepghatak/BPB-PowerAppsCookbook/tree/main/Chapter%202</Url></Link>
   <Link><ShortUrl>pa-github-ch3</ShortUrl><LongDesc>Github - Chapter 3</LongDesc><Url>https://github.com/sudeepghatak/BPB-PowerAppsCookbook/tree/main/Chapter%203</Url></Link>
+  <Link><ShortUrl>free-365</ShortUrl><LongDesc>Free 365</LongDesc><Url>https://developer.microsoft.com/en-us/microsoft-365/dev-program?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>cdm</ShortUrl><LongDesc>Common Data Model</LongDesc><Url>https://learn.microsoft.com/en-us/common-data-model/?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>data-role</ShortUrl><LongDesc>Security role in Dataverse</LongDesc><Url>hhttps://learn.microsoft.com/en-us/power-platform/admin/wp-security-cds?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>security-role</ShortUrl><LongDesc>Role-based Security role</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/database-security?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>col-level-access</ShortUrl><LongDesc>Column-level security</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/field-level-security?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-udt</ShortUrl><LongDesc>User defined Types</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-type?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-comp</ShortUrl><LongDesc>Components</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-component?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-best-practice</ShortUrl><LongDesc>Components</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/developer/component-framework/code-components-best-practices?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-library</ShortUrl><LongDesc>Component Library</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-library?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-calm</ShortUrl><LongDesc>Component Library ALM</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/component-library-alm?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-export-import</ShortUrl><LongDesc>Canvas app import and export</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app-package?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-coe</ShortUrl><LongDesc>Center of Excellence</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/guidance/coe/starter-kit?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-alm</ShortUrl><LongDesc>ALM for Power Platform</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/guidance/alm-accelerator/overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-auto</ShortUrl><LongDesc>Power Platform Automation Kit</LongDesc><Url>https://learn.microsoft.com/en-us/power-automate/guidance/automation-kit/overview/introduction?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>dv-import-data</ShortUrl><LongDesc>Dataverse import and export</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/developer/data-platform/import-data?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>dv-import-export</ShortUrl><LongDesc>GitHub - Dataverse import and export</LongDesc><Url>https://github.com/MicrosoftDocs/powerapps-docs/blob/main/powerapps-docs/maker/data-platform/import-export-data.md</Url></Link>
+  <Link><ShortUrl>pa-bpf</ShortUrl><LongDesc>Business process flows</LongDesc><Url>https://learn.microsoft.com/en-us/power-automate/business-process-flows-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>bpf-video</ShortUrl><LongDesc>Business process flow video</LongDesc><Url>https://www.youtube.com/watch?v=JB-bGasVcDo</Url></Link>
+  <Link><ShortUrl>bpf-bp</ShortUrl><LongDesc>BPF - Best practices</LongDesc><Url>https://learn.microsoft.com/en-us/power-automate/best-practices-entity-attributes?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>bpf-branch</ShortUrl><LongDesc>BPF - Branching</LongDesc><Url>https://learn.microsoft.com/en-us/power-automate/enhance-business-process-flows-branching?WT.mc_id=DX-MVP-5005309</Url></Link>
 </PowerAppsLinks>
