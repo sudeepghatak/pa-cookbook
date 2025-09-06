@@ -68,4 +68,23 @@
   <Link><ShortUrl>bpf-video</ShortUrl><LongDesc>Business process flow video</LongDesc><Url>https://www.youtube.com/watch?v=JB-bGasVcDo</Url></Link>
   <Link><ShortUrl>bpf-bp</ShortUrl><LongDesc>BPF - Best practices</LongDesc><Url>https://learn.microsoft.com/en-us/power-automate/best-practices-entity-attributes?WT.mc_id=DX-MVP-5005309</Url></Link>
   <Link><ShortUrl>bpf-branch</ShortUrl><LongDesc>BPF - Branching</LongDesc><Url>https://learn.microsoft.com/en-us/power-automate/enhance-business-process-flows-branching?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>ai-fx</ShortUrl><LongDesc>ai-fx</LongDesc><Url>https://learn.microsoft.com/en-us/ai-builder/powerfx-in-powerapps?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>ai-prompt</ShortUrl><LongDesc>ai-prompt</LongDesc><Url>https://learn.microsoft.com/en-us/ai-builder/create-a-custom-prompt?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>ai-builder</ShortUrl><LongDesc>ai-builder</LongDesc><Url>https://learn.microsoft.com/en-us/ai-builder/faqs-text-generation?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>ai-license</ShortUrl><LongDesc>ai-license</LongDesc><Url>https://learn.microsoft.com/en-us/ai-builder/credit-management?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>good-ai</ShortUrl><LongDesc>good-ai</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/common/responsible-ai-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>copilot-fx</ShortUrl><LongDesc>copilot-fx</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-formulas-formulabar?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>bpf-branch-video</ShortUrl><LongDesc>BPF - Branching video</LongDesc><Url>https://www.youtube.com/watch?v=A4cBqQjnIBg</Url></Link>
+  <Link><ShortUrl>ai-edit-app</ShortUrl><LongDesc>ai-edit-app</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-edit-app?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-gen-pages</ShortUrl><LongDesc>pa-gen-pages</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/generative-pages?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>gen-pages-faq</ShortUrl><LongDesc>gen-pages-faq</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/common/faq-generative-pages-model-driven?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>pa-plan-design</ShortUrl><LongDesc>pa-plan-design</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/plan-designer/plan-designer?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>copilot-pp</ShortUrl><LongDesc>copilot-pp</LongDesc><Url>https://learn.microsoft.com/en-us/training/paths/copilot-power-platform/?WT.mc_id=DX-MVP-5005309</Url></Link>
+  <Link><ShortUrl>custom-connectors</ShortUrl><LongDesc>custom-connectors</LongDesc><Url>https://learn.microsoft.com/en-us/connectors/custom-connectors/?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>connector-ref</ShortUrl><LongDesc>Connector reference</LongDesc><Url>https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerapps-connectors?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>external-data</ShortUrl><LongDesc>Working with external data</LongDesc><Url>https://learn.microsoft.com/en-us/training/modules/work-with-external-data/?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-dotnet</ShortUrl><LongDesc>Working with Dotnet APIs</LongDesc><Url>https://learn.microsoft.com/en-us/shows/on-dotnet/integrating-powerapps-with-net-web-apis?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-teams</ShortUrl><LongDesc>Creating apps in Teams</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/teams/create-apps-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-teams-overview</ShortUrl><LongDesc>Overview of Teams integration</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/teams/overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-teams-dataverse</ShortUrl><LongDesc>Teams Dataverse environments</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/about-teams-environment?WT.mc_id=DX-MVP-5005309</Url></Link>
 </PowerAppsLinks>
