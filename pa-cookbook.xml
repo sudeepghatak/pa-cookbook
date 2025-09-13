@@ -87,4 +87,18 @@
    <Link><ShortUrl>pa-teams</ShortUrl><LongDesc>Creating apps in Teams</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/teams/create-apps-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
    <Link><ShortUrl>pa-teams-overview</ShortUrl><LongDesc>Overview of Teams integration</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/teams/overview?WT.mc_id=DX-MVP-5005309</Url></Link>
    <Link><ShortUrl>pa-teams-dataverse</ShortUrl><LongDesc>Teams Dataverse environments</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/about-teams-environment?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-common-issues</ShortUrl><LongDesc>Common issues and resolutions</LongDesc><Url>https://learn.microsoft.com/en-us/troubleshoot/power-platform/power-apps/create-and-use-apps/common-issues-and-resolutions?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-troubleshooting</ShortUrl><LongDesc>Power Apps Troubleshooting</LongDesc><Url>https://learn.microsoft.com/en-us/troubleshoot/power-platform/power-apps/create-and-use-apps/isolate-common-issues?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-dlp</ShortUrl><LongDesc>Data Loss Prevention (DLP)</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-dlp-issues</ShortUrl><LongDesc>DLP Known Issues</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/dlp-known-issues?WT.mc_id=DX-MVP-5005309</Url></Link>
+   <Link><ShortUrl>pa-dlp-scope</ShortUrl><LongDesc>DLP Policy Scope</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/dlp-policy-scope?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-env-overview</ShortUrl><LongDesc>Power Platform environments overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/environments-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-managed-env</ShortUrl><LongDesc>Managed Environment overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-backup-restore</ShortUrl><LongDesc>Backup and restore environments</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/backup-restore-environments?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-solutions-overview</ShortUrl><LongDesc>Solutions overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solutions-overview</Url></Link>
+<Link><ShortUrl>pa-solution-layers</ShortUrl><LongDesc>Solution layers</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solution-layers</Url></Link>
+<Link><ShortUrl>pa-connection-reference</ShortUrl><LongDesc>Create connection reference</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-connection-reference</Url></Link>
+<Link><ShortUrl>pa-governance</ShortUrl><LongDesc>Governance considerations</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/governance-considerations</Url></Link>
+<Link><ShortUrl>pa-data-storage</ShortUrl><LongDesc>Data storage security</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/security/data-storage</Url></Link>
+
 </PowerAppsLinks>
