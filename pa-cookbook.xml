@@ -95,10 +95,10 @@
 <Link><ShortUrl>pa-env-overview</ShortUrl><LongDesc>Power Platform environments overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/environments-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
 <Link><ShortUrl>pa-managed-env</ShortUrl><LongDesc>Managed Environment overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
 <Link><ShortUrl>pa-backup-restore</ShortUrl><LongDesc>Backup and restore environments</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/backup-restore-environments?WT.mc_id=DX-MVP-5005309</Url></Link>
-<Link><ShortUrl>pa-solutions-overview</ShortUrl><LongDesc>Solutions overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solutions-overview</Url></Link>
-<Link><ShortUrl>pa-solution-layers</ShortUrl><LongDesc>Solution layers</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solution-layers</Url></Link>
-<Link><ShortUrl>pa-connection-reference</ShortUrl><LongDesc>Create connection reference</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-connection-reference</Url></Link>
-<Link><ShortUrl>pa-governance</ShortUrl><LongDesc>Governance considerations</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/governance-considerations</Url></Link>
-<Link><ShortUrl>pa-data-storage</ShortUrl><LongDesc>Data storage security</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/security/data-storage</Url></Link>
+<Link><ShortUrl>pa-solutions-overview</ShortUrl><LongDesc>Solutions overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solutions-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-solution-layers</ShortUrl><LongDesc>Solution layers</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/solution-layers?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-connection-reference</ShortUrl><LongDesc>Create connection reference</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-connection-reference?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-governance</ShortUrl><LongDesc>Governance considerations</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/governance-considerations?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-data-storage</ShortUrl><LongDesc>Data storage security</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/security/data-storage?WT.mc_id=DX-MVP-5005309</Url></Link>
 
 </PowerAppsLinks>
