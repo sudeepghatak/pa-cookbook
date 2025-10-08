@@ -109,5 +109,9 @@
 <Link><ShortUrl>pa-dv-forms</ShortUrl><LongDesc>Configure forms in Power Pages</LongDesc><Url>https://learn.microsoft.com/en-us/power-pages/configure/data-workspace-forms?WT.mc_id=DX-MVP-5005309</Url></Link>
 <Link><ShortUrl>pa-mda-benefits</ShortUrl><LongDesc>Model-driven apps benefits</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/app-value-proposition?WT.mc_id=DX-MVP-5005309</Url></Link>
 <Link><ShortUrl>pa-data-def</ShortUrl><LongDesc>Define the data model</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/define-data-model-driven-app?WT.mc_id=DX-MVP-5005309</Url></Link>
-
+<Link><ShortUrl>pa-bus-logic</ShortUrl><LongDesc>Custom business logic</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/guide-staff-through-common-tasks-processes?WT.mc_id=DX-MVP-5005309</Url></Link>  
+<Link><ShortUrl>pa-bus-rules</ShortUrl><LongDesc>Create Business Rules</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-use-powerfx</ShortUrl><LongDesc>Using Power Fx with commands</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/commanding-use-powerfx?WT.mc_id=DX-MVP-5005309</Url></Link> 
+<Link><ShortUrl>pa-command-scopes</ShortUrl><LongDesc>Scopes for modern commands</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/commanding-scopes?WT.mc_id=DX-MVP-5005309</Url></Link> 
+<Link><ShortUrl>pa-command-limits</ShortUrl><LongDesc>Command bar customization limitations</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/command-designer-limitations?WT.mc_id=DX-MVP-5005309 </Url></Link> 
 </PowerAppsLinks>
