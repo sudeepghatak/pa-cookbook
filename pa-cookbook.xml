@@ -100,5 +100,14 @@
 <Link><ShortUrl>pa-connection-reference</ShortUrl><LongDesc>Create connection reference</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-connection-reference?WT.mc_id=DX-MVP-5005309</Url></Link>
 <Link><ShortUrl>pa-governance</ShortUrl><LongDesc>Governance considerations</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/governance-considerations?WT.mc_id=DX-MVP-5005309</Url></Link>
 <Link><ShortUrl>pa-data-storage</ShortUrl><LongDesc>Data storage security</LongDesc><Url>https://learn.microsoft.com/en-us/power-platform/admin/security/data-storage?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-dataverse-overview</ShortUrl><LongDesc>Why Dataverse overview</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/why-dataverse-overview?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-import-data</ShortUrl><LongDesc>Import and export data</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-export-data?WT.mc_id=DX-MVP-5005309</Url></Link> 
+<Link><ShortUrl>pa-edit-metadata</ShortUrl><LongDesc>Create and edit metadata </LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-edit-metadata?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-entities</ShortUrl><LongDesc>Types of entities</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/types-of-entities?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-data-import-export</ShortUrl><LongDesc>Data platform import and export</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-import-export?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-views</ShortUrl><LongDesc>Configure views in Power Pages</LongDesc><Url>https://learn.microsoft.com/en-us/power-pages/configure/data-workspace-views?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-dv-forms</ShortUrl><LongDesc>Configure forms in Power Pages</LongDesc><Url>https://learn.microsoft.com/en-us/power-pages/configure/data-workspace-forms?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-mda-benefits</ShortUrl><LongDesc>Model-driven apps benefits</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/app-value-proposition?WT.mc_id=DX-MVP-5005309</Url></Link>
+<Link><ShortUrl>pa-data-def</ShortUrl><LongDesc>Define the data model</LongDesc><Url>https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/define-data-model-driven-app?WT.mc_id=DX-MVP-5005309</Url></Link>
 
 </PowerAppsLinks>
