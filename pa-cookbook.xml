@@ -664,4 +664,54 @@
 		<LongDesc>Inspect and Debug CSS with Microsoft Edge DevTools</LongDesc>
 		<Url>https://learn.microsoft.com/en-us/microsoft-edge/devtools/css/inspect?WT.mc_id=DX-MVP-5005309</Url>
 	</Link>
+	<Link>
+		<ShortUrl>pa-admin-center</ShortUrl>
+		<LongDesc>Overview of the Power Platform admin center</LongDesc>
+		<Url>https://learn.microsoft.com/en-us/power-platform/admin/admin-documentation?WT.mc_id=DX-MVP-5005309</Url>
+	</Link>
+	<Link>
+		<ShortUrl>pa-cross-tenant</ShortUrl>
+		<LongDesc>Restrict cross-tenant inbound and outbound access</LongDesc>
+		<Url>https://learn.microsoft.com/en-us/power-platform/admin/cross-tenant-restrictions?WT.mc_id=DX-MVP-5005309</Url>
+	</Link>
+<Link>
+<ShortUrl>pa-tenant-settings</ShortUrl>
+<LongDesc>Tenant settings</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/tenant-settings?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-inventory-api</ShortUrl>
+<LongDesc>Power Platform inventory API</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/inventory-api?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-inventory-sample</ShortUrl>
+<LongDesc>Power Platform inventory sample queries</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/inventory-sample-queries?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-inventory</ShortUrl>
+<LongDesc>Power Platform inventory</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/power-platform-inventory?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-analytics</ShortUrl>
+<LongDesc>Tenant-level Analytics for Power Apps</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/powerapps-analytics-reports?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-tenant-analytics</ShortUrl>
+<LongDesc>Tenant-level analytics</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/tenant-level-analytics?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-dv-security-roles</ShortUrl>
+<LongDesc>Security roles and privileges for Dataverse</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/security-roles-privileges?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
+<Link>
+<ShortUrl>pa-service-admin</ShortUrl>
+<LongDesc>Use service admin roles to manage your tenant</LongDesc>
+<Url>https://learn.microsoft.com/en-us/power-platform/admin/use-service-admin-role-manage-tenant?WT.mc_id=DX-MVP-5005309</Url>
+</Link>
 </PowerAppsLinks>
